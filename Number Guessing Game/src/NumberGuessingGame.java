@@ -18,8 +18,8 @@ public class NumberGuessingGame
 			System.out.println("Hello " + name);
 			
 			while(flag2) {
-				if() {
-				
+				if(flag3) {
+				System.out.println("Let's Play Again!");
 				}
 			System.out.println("Choose your range:");
 			int range = userInput2.nextInt();
@@ -55,7 +55,7 @@ public class NumberGuessingGame
 					flag3 = true;
 					counter = 0;
 					}
-				
+				//Test
 							
 							
 							
